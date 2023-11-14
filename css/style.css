@@ -15,14 +15,27 @@ button {
     border-radius: 13px;
     margin: 20px 7px 20px 0px;
     background-color: #fff;
+    cursor: pointer;
 
 
+}
+
+#all-list {
+    list-style-position: inside;
+    padding-left: 50px;
+    list-style-type: none;
+
+}
+
+.main-list {
+    font-size: 2.3rem;
 }
 
 .main-header {
     height: 150px;
     background-color: #fff;
     line-height: 150px;
+
 }
 
 #logo {
@@ -64,5 +77,43 @@ h1 {
 .section-button {
     color: #808090;
     border-color: #808090;
+
+}
+
+.list-header {
+    display: block;
+    margin: 40px;
+}
+
+li {
+    list-style-type: none;
+
+}
+
+.do {
+    padding: 2px;
+    border-radius: 50%;
+    border: 2px solid #048204;
+    color: #048204;
+    font-size: 1.5rem;
+    margin-left: 30px;
+
+
+
+
+
+}
+
+.not {
+    padding: 2px;
+    border-radius: 50%;
+    border: solid;
+    border: 2px solid #FF0404;
+    color: #FF0404;
+    font-size: 1.5rem;
+    margin-left: 30px;
+
+
+
 
 }
