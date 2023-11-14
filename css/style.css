@@ -31,6 +31,16 @@ button {
     font-size: 2.3rem;
 }
 
+.label {
+    vertical-align: middle;
+    font-size: 1.2rem;
+    margin: 5px;
+    padding: 10px;
+    background-color: goldenrod;
+    border-radius: 30px;
+    color: #fff;
+}
+
 .main-header {
     height: 150px;
     background-color: #fff;
@@ -99,6 +109,7 @@ li {
     color: #048204;
     font-size: 1.5rem;
     margin-left: 30px;
+    margin-right: 10px;
 
 
 
@@ -114,18 +125,9 @@ li {
     color: #FF0404;
     font-size: 1.5rem;
     margin-left: 30px;
+    margin-right: 10px;
 
 
 
 
-}
-
-.label {
-    vertical-align: middle;
-    font-size: 1.2rem;
-    margin: 5px;
-    padding: 10px;
-    background-color: goldenrod;
-    border-radius: 30px;
-    color: #fff;
 }
