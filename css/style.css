@@ -83,10 +83,12 @@ h1 {
 .list-header {
     display: block;
     margin: 40px;
+    font-weight: 700;
 }
 
 li {
     list-style-type: none;
+    margin-bottom: 20px;
 
 }
 
@@ -116,4 +118,14 @@ li {
 
 
 
+}
+
+.label {
+    vertical-align: middle;
+    font-size: 1.2rem;
+    margin: 5px;
+    padding: 10px;
+    background-color: goldenrod;
+    border-radius: 30px;
+    color: #fff;
 }
